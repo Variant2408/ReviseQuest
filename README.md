@@ -20,5 +20,5 @@
 19. [Burst Balloons](https://leetcode.com/problems/burst-balloons/description/)<br>
 20. [Car Fleet](https://leetcode.com/problems/car-fleet/description/)<br>
 21. [Largest subsequence of length K from a string of numbers](https://leetcode.com/discuss/interview-question/303973/interviewingio-practice-largest-subsequence-of-length-k-from-a-string-of-numbers)    
-                                         [**Solution**](github.com/Variant2408/stackQueue/blob/main/LargestSubsequenceOfLengthKFromAStringOfNumbers.java)<br>
+                                         [**Solution**](https://github.com/Variant2408/stackQueue/blob/main/LargestSubsequenceOfLengthKFromAStringOfNumbers.java)<br>
 22.
