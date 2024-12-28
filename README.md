@@ -22,4 +22,5 @@
 21. [Largest subsequence of length K from a string of numbers](https://leetcode.com/discuss/interview-question/303973/interviewingio-practice-largest-subsequence-of-length-k-from-a-string-of-numbers) [:eye_speech_bubble:<sup>**_Solution_**</sup>](https://github.com/Variant2408/stackQueue/blob/main/LargestSubsequenceOfLengthKFromAStringOfNumbers.java)<br>
 22. [Simplifying algebric expression](https://leetcode.com/discuss/interview-question/6181749/Google-or-L3-or-Bangalore-Offer)      [:eye_speech_bubble:<sup>**_Solution_**</sup>](https://medium.com/@sanjaysoni_48818/simplifying-algebric-expression-problem-dsa-914d1ca25755)<br>
 23. [Create Maximum Number](https://leetcode.com/problems/create-maximum-number/)<br>
-24. 
+24. [Maximum Number of Non-Overlapping Subarrays With Sum Equals Target](https://leetcode.com/problems/maximum-number-of-non-overlapping-subarrays-with-sum-equals-target/description/)
+25. 
