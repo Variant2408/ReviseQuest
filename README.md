@@ -26,3 +26,4 @@
 25. [Maximum Number of Non-Overlapping Subarrays With Sum Equals Target](https://leetcode.com/problems/maximum-number-of-non-overlapping-subarrays-with-sum-equals-target/description/)
 26. [Long Pressed Name](https://leetcode.com/problems/long-pressed-name/description/)
 27. [Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/description/)
+28. [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)
